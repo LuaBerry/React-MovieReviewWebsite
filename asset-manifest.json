@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Baskin-Lazpberry/Web-MovieReview/static/css/main.6f22bb4b.css",
+    "main.js": "/Baskin-Lazpberry/Web-MovieReview/static/js/main.e128b3fa.js",
+    "index.html": "/Baskin-Lazpberry/Web-MovieReview/index.html",
+    "main.6f22bb4b.css.map": "/Baskin-Lazpberry/Web-MovieReview/static/css/main.6f22bb4b.css.map",
+    "main.e128b3fa.js.map": "/Baskin-Lazpberry/Web-MovieReview/static/js/main.e128b3fa.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6f22bb4b.css",
+    "static/js/main.e128b3fa.js"
+  ]
+}
