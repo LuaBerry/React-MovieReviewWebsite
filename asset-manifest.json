@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/Web-MovieReview/static/css/main.6f22bb4b.css",
-    "main.js": "/Web-MovieReview/static/js/main.e128b3fa.js",
-    "index.html": "/Web-MovieReview/index.html",
-    "main.6f22bb4b.css.map": "/Web-MovieReview/static/css/main.6f22bb4b.css.map",
-    "main.e128b3fa.js.map": "/Web-MovieReview/static/js/main.e128b3fa.js.map"
+    "main.css": "/React-MovieReviewWebsite/static/css/main.6f22bb4b.css",
+    "main.js": "/React-MovieReviewWebsite/static/js/main.e128b3fa.js",
+    "index.html": "/React-MovieReviewWebsite/index.html",
+    "main.6f22bb4b.css.map": "/React-MovieReviewWebsite/static/css/main.6f22bb4b.css.map",
+    "main.e128b3fa.js.map": "/React-MovieReviewWebsite/static/js/main.e128b3fa.js.map"
   },
   "entrypoints": [
     "static/css/main.6f22bb4b.css",
