@@ -2,4 +2,4 @@
 
 Web Development 4 - React.JS
 
-Website link: https://baskin-lazpberry.github.io/Web-MovieReview/#/
+Website link: https://baskin-lazpberry.github.io/React-MovieReviewWebsite/#/
